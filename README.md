@@ -1,6 +1,6 @@
 #Deployed with GitHub pages
 
-[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)]([https://parquet-viewer-e-kr2mbibkyng2nkwlhpjkms.streamlit.app/](https://yeuner.github.io/byexcel-reactapp/))
+[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://yeuner.github.io/byexcel-reactapp/)
 
 # Getting Started with Create React App
 
